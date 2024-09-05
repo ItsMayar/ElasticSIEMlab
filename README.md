@@ -35,9 +35,11 @@ In this project, I successfully implemented and configured Elastic Stack SIEM in
 <img src="https://i.imgur.com/ltgtMhk.png" height="70%" width="70%" alt="Elastic"/>
 <br />
 <br />
-5) Verify the agent is working, by generating security-related events on your Kali VM using Nmap. It is a free and open-source utility used for network exploration, management, and security auditing. Nmap is designed to discover hosts and services on a computer network, thus creating a “map” of the network. It can be used to scan hosts for open ports, determine the operating system and software running on the target system, and gather other information about the network.
+5) Verify the agent is working, by generating security-related events on your Kali VM using Nmap. 
 <br /> 
 <img src="https://i.imgur.com/icz0dOn.png" height="70%" width="70%" alt="Elastic"/>
+<br />
+Nmap is a free and open-source utility used for network exploration, management, and security auditing. It is designed to discover hosts and services on a computer network, thus creating a “map” of the network. Nmap can be used to scan hosts for open ports, determine the operating system and software running on the target system, and gather other information about the network.
 <br />
 <br />
 6) With the data from the Kali VM now forwarded to the SIEM, we can begin querying and analyzing the logs: <br/>
