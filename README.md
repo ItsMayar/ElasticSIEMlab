@@ -35,10 +35,21 @@ Paste the selected command for Linux into the Kali terminal: <br/>
 <img src="https://i.imgur.com/ltgtMhk.png" height="70%" width="70%" alt="Elastic"/>
 <br />
 <br />
-To verify the agent is working, generate security-related events on your Kali VM using Nmap. It is a free and open-source utility used for network exploration, management, and security auditing. Nmap is designed to discover hosts and services on a computer network, thus creating a “map” of the network. It can be used to scan hosts for open ports, determine the operating system and software running on the target system, and gather other information about the network: <br/>
+To verify the agent is working, generate security-related events on your Kali VM using Nmap. This scan generates several security events, such as the detection of open ports and the identification of services running on those ports:
+<br /> 
+<br /> 
 <img src="https://i.imgur.com/icz0dOn.png" height="70%" width="70%" alt="Elastic"/>
 <br />
-This scan generates several security events, such as the detection of open ports and the identification of services running on those ports. 
+Nmap is a free and open-source utility used for network exploration, management, and security auditing. Nmap is designed to discover hosts and services on a computer network, thus creating a “map” of the network. It can be used to scan hosts for open ports, determine the operating system and software running on the target system, and gather other information about the network.
+<br />
+<br />
+With the data from the Kali VM now forwarded to the SIEM, we can begin querying and analyzing the logs: <br/>
+<img src="https://i.imgur.com/TnC15lI.png" height="70%" width="70%" alt="Elastic"/>
+<br />
+<br />
+With the data from the Kali VM now forwarded to the SIEM, we can begin querying and analyzing the logs: <br/>
+<img src="https://i.imgur.com/TnC15lI.png" height="70%" width="70%" alt="Elastic"/>
+<br />
 <br />
 </p>
 
