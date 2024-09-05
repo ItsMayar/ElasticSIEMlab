@@ -53,7 +53,9 @@ Nmap is a free and open-source utility used for network exploration, management,
 <img src="https://i.imgur.com/Ujsfpc3.png" height="70%" width="70%" alt="Elastic"/>
 <br />
 <br />
-
+<img src="https://i.imgur.com/Zj5py2N.png" height="70%" width="70%" alt="Elastic"/>
+<br />
+<br />
 8) Create an alert in the Elastic SIEM instance that will monitor the logs for Nmap scan events and then notify user when detected:
 <br/>
 <img src="https://i.imgur.com/3h4tzXc.png" height="70%" width="70%" alt="Elastic"/>
@@ -61,8 +63,6 @@ Nmap is a free and open-source utility used for network exploration, management,
 <br />
 In a SIEM, alerts are a crucial feature for detecting security incidents and responding to them in a timely manner. Alerts are created based on predefined rules or custom queries, and can be configured to trigger specific actions when certain conditions are met. <br/>
 <img src="https://i.imgur.com/VCbdaaI.png" height="70%" width="70%" alt="Elastic"/>
-<br />
-<br />
 </p>
 
 <!--
