@@ -1,4 +1,4 @@
-<h1>Elastic Stack SIEM Implementation and Security Event Management</h1>
+![image](https://github.com/user-attachments/assets/e93e5e00-38ea-45d2-971a-565aba4e64ab)<h1>Elastic Stack SIEM Implementation and Security Event Management</h1>
 
 <h2>Description</h2>
 In this project, I successfully implemented and configured Elastic Stack SIEM in a home lab environment. The setup included deploying a Kali Linux VM and configuring Elastic Agents for efficient log collection and forwarding data to the SIEM, enabling robust security event monitoring.I gained practical experience by generating and analyzing security events using Nmap on the Kali Linux platform, which enhanced my ability to query Elastic SIEM for identifying and investigating security incidents. This project allowed me to develop a custom dashboard within Elastic SIEM, enabling effective visualization of security events and showcasing my skills in data interpretation and pattern recognition. Additionally, I created and tested alert rules for detecting specific security events, demonstrating my proficiency in proactive incident response and alert management.
@@ -47,8 +47,13 @@ With the data from the Kali VM now forwarded to the SIEM, we can begin querying 
 <img src="https://i.imgur.com/TnC15lI.png" height="70%" width="70%" alt="Elastic"/>
 <br />
 <br />
-With the data from the Kali VM now forwarded to the SIEM, we can begin querying and analyzing the logs: <br/>
-<img src="https://i.imgur.com/TnC15lI.png" height="70%" width="70%" alt="Elastic"/>
+Create an alert in the Elastic SIEM instance that will monitor the logs for Nmap scan events and then notify user when detected:
+<br/>
+<img src="https://i.imgur.com/3h4tzXc.png" height="70%" width="70%" alt="Elastic"/>
+<br />
+<br />
+In a SIEM, alerts are a crucial feature for detecting security incidents and responding to them in a timely manner. Alerts are created based on predefined rules or custom queries, and can be configured to trigger specific actions when certain conditions are met. <br/>
+<img src="https://i.imgur.com/VCbdaaI.png" height="70%" width="70%" alt="Elastic"/>
 <br />
 <br />
 </p>
