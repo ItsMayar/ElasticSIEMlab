@@ -42,7 +42,7 @@ In this project, I successfully implemented and configured Elastic Stack SIEM in
 Nmap is a free and open-source utility used for network exploration, management, and security auditing. It is designed to discover hosts and services on a computer network, thus creating a “map” of the network. Nmap can be used to scan hosts for open ports, determine the operating system and software running on the target system, and gather other information about the network.
 <br />
 <br />
-6) With the data from the Kali VM now forwarded to the SIEM, we can begin querying and analyzing the logs: <br/>
+6)  Begin querying and analyzing the logs with the data forwarded to the SIEM from the Kali VM: <br/>
 <img src="https://i.imgur.com/TnC15lI.png" height="70%" width="70%" alt="Elastic"/>
 <br />
 <br />
