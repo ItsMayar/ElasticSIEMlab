@@ -18,11 +18,11 @@ In this project, I successfully implemented and configured Elastic Stack SIEM in
 <h2>Program walk-through:</h2>
 
 <p align="center">
-1) Log into your Elastic SIEM instance and navigate to the Integrations page.
+1) Log into your Elastic SIEM instance:
 <img src="https://i.imgur.com/IGAW0qm.png" height="70%" width="70%" alt="Elastic"/>
 <br />
 <br />
-2) Add Elastic Defend: <br/>
+2) Navigate to the Integrations page and add Elastic Defend: <br/>
 <img src="https://i.imgur.com/CH12MSf.png" height="70%" width="70%" alt="Elastic"/>
 <br />
 <br />
