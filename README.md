@@ -46,6 +46,9 @@ Nmap is a free and open-source utility used for network exploration, management,
 <img src="https://i.imgur.com/TnC15lI.png" height="70%" width="70%" alt="Elastic"/>
 <br />
 <br />
+<img src="https://i.imgur.com/jYZ7J9t.png" height="70%" width="70%" alt="Elastic"/>
+<br />
+<br />
 7) Create a Dashboard to Visualize the Events, to analyze the logs and identify patterns or anomalies in the data: <br/>
 <img src="https://i.imgur.com/U6ZFtJj.png" height="70%" width="70%" alt="Elastic"/>
 <br />
